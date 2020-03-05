@@ -1,5 +1,8 @@
 _repo: Dutch-Methods-of-Birth-Control_61495
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61495-h/images/cover.jpg
 creator:
   author:
     agent_name: Sanger, Margaret
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/693
     wikipedia: https://en.wikipedia.org/wiki/Margaret_Sanger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61495#Dutch-Methods-of-Birth-Control
 gutenberg_issued: '2020-02-24'
 gutenberg_type: Text
 identifiers:
